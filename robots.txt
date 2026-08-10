@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kak-vybrat-chestnoe-kazino.github.io
+Sitemap: https://kak-vybrat-chestnoe-kazino.github.io/sitemap.xml
